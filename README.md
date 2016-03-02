@@ -27,7 +27,7 @@ terminal:
 conda install scipy numpy matplotlib
 pip install bash_kernel
 python -m bash_kernel.install
-pip install ipythonwidgets
+pip install ipythonblocks
 ```
 
 # Launching jupyter
