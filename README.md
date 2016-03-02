@@ -29,3 +29,11 @@ pip install bash_kernel
 python -m bash_kernel.install
 pip install ipythonwidgets
 ```
+
+# Launching jupyter
+You can launch `jupyter` by typing `jupyter notebook` into a terminal. This
+should open a new browser window. If it does not have a look at your
+terminal output. It should mention a URL at which you can reach the
+notebook server. Most likely it will be http://localhost:8888.
+
+(CERNiacs: use your laptop and not lxplus)
