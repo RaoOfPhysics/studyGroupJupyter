@@ -24,6 +24,7 @@ We will use two python packages which are not part of anaconda by
 default. To install them run the following commands in a new
 terminal:
 ```bash
+conda install scipy numpy matplotlib
 pip install bash_kernel
 python -m bash_kernel.install
 pip install ipythonwidgets
