@@ -2,7 +2,7 @@
 :notebook: Jupyter notebooks code-along for CERN Study Group
 
 
-# Setup
+# Setup :construction:
 Python is a popular language for scientific computing, and great for general-purpose programming as well. Installing all of its scientific packages individually can be a bit difficult, so we recommend an all-in-one installer.
 
 Regardless of how you choose to install it, please make sure you install Python version 3.x and not version 2.x.
