@@ -19,3 +19,12 @@ Download the default Python 3 installer. Use all of the defaults for installatio
 ## Linux
 Download the default Python 3 installer. Use all of the defaults for installation.
 
+## Python packages
+We will use two python packages which are not part of anaconda by
+default. To install them run the following commands in a new
+terminal:
+```bash
+pip install bash_kernel
+python -m bash_kernel.install
+pip install ipythonwidgets
+```
