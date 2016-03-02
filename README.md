@@ -28,7 +28,7 @@ We will need a few python packages:
 * scipy
 * ipythonblocks
 
-Most of these are are part of anaconda by
+Most of these are part of anaconda by
 default. To install the others run the following commands in a new
 terminal:
 ```bash
