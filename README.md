@@ -20,8 +20,16 @@ Download the default Python 3 installer. Use all of the defaults for installatio
 Download the default Python 3 installer. Use all of the defaults for installation.
 
 ## Python packages
-We will use two python packages which are not part of anaconda by
-default. To install them run the following commands in a new
+We will need a few python packages:
+
+* jupyter
+* matplotlib
+* numpy
+* scipy
+* ipythonblocks
+
+Most of these are are part of anaconda by
+default. To install the others run the following commands in a new
 terminal:
 ```bash
 conda install scipy numpy matplotlib
