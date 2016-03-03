@@ -26,12 +26,15 @@ We will need a few python packages:
 * matplotlib
 * numpy
 * scipy
+* cython
 * ipythonblocks
 
 Most of these are part of anaconda by
 default. To install the others run the following commands in a new
 terminal:
 ```bash
+conda install cython
+# the other packages don't have conda packages
 pip install bash_kernel
 python -m bash_kernel.install
 pip install ipythonblocks
